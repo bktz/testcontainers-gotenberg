@@ -1,8 +1,0 @@
-META-INF/quarkus-config-doc/quarkus-config-model.json
-com/digibel/testcontainers/gotenberg/runtime/GotenbergDevServicesConfig.class
-META-INF/quarkus-config-doc/quarkus-config-model-version
-META-INF/quarkus-config-doc/quarkus-config-javadoc.json
-META-INF/quarkus-javadoc.properties
-com/digibel/testcontainers/gotenberg/runtime/GotenbergContainer.class
-META-INF/quarkus-config-roots.list
-com/digibel/testcontainers/gotenberg/runtime/GotenbergBuildTimeConfig.class
