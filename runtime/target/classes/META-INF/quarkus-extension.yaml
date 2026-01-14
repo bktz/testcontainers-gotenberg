@@ -1,0 +1,10 @@
+---
+name: "Testcontainers Gotenberg"
+metadata:
+  built-with-quarkus-core: "3.30.6"
+  requires-quarkus-core: "[3.30,)"
+  minimum-java-version: "17"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-core"
+artifact: "com.digibel:testcontainers-gotenberg::jar:1.0.0-SNAPSHOT"

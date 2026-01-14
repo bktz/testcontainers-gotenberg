@@ -1,0 +1,6 @@
+com/digibel/testcontainers/gotenberg/deployment/TestcontainersGotenbergProcessor$$accessor.class
+com/digibel/testcontainers/gotenberg/deployment/GlobalDevServicesEnabledCondition.class
+com/digibel/testcontainers/gotenberg/deployment/TestcontainersGotenbergProcessor.class
+com/digibel/testcontainers/gotenberg/deployment/TestcontainersGotenbergProcessor$IsDockerWorking.class
+com/digibel/testcontainers/gotenberg/deployment/TestcontainersGotenbergProcessor$GotenbergDevServicesConfig.class
+META-INF/quarkus-build-steps.list

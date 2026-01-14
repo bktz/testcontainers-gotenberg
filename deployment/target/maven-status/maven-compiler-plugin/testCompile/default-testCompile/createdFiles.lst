@@ -1,0 +1,3 @@
+com/digibel/testcontainers/gotenberg/test/TestcontainersGotenbergTest.class
+com/digibel/testcontainers/gotenberg/test/GotenbergDevServicesTest.class
+com/digibel/testcontainers/gotenberg/test/TestcontainersGotenbergDevModeTest.class
